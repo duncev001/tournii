@@ -1,5 +1,5 @@
-import React from 'react';
-import { Text, View } from 'react-native';
+import React, { useState } from 'react';
+import { View, SafeAreaView, FlatList, Text } from "react-native";
 
 const Profile=()=>{
     return (
